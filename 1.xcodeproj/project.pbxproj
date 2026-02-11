@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		5BCC542A2F3D1E6000BE5CD4 /* 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.swift; sourceTree = "<group>"; };
 		5BCC542B2F3D1EB200BE5CD4 /* 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.swift; sourceTree = "<group>"; };
+		5BCC542C2F3D1EFF00BE5CD4 /* 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -16,6 +17,7 @@
 			isa = PBXGroup;
 			children = (
 				5BCC542A2F3D1E6000BE5CD4 /* 1.swift */,
+				5BCC542C2F3D1EFF00BE5CD4 /* 3.swift */,
 				5BCC542B2F3D1EB200BE5CD4 /* 2.swift */,
 			);
 			sourceTree = "<group>";
