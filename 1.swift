@@ -1,4 +1,9 @@
-import SwiftUI
+//
+//  1.swift
+//  1
+//
+//  Created by yuriy on 11. 2. 26.
+//
 
 // The ViewModel (the apartment)
 final class CounterViewModel: ObservableObject {
