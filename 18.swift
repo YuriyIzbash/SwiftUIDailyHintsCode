@@ -40,3 +40,4 @@ struct MissionView: View {
 // 🧠 Concurrency rule:
 // UI state + background thread = silent chaos.
 // UI state + MainActor = clean execution.
+
